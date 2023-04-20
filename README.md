@@ -3,7 +3,7 @@
 ## Build Runner
 
 ```sh
-docker build --build-arg RUNNER_VERSION=2.302.1 --tag lucasschmitz/github-runner .
+docker build --build-arg RUNNER_VERSION=2.303.0 --tag lucasschmitz/github-runner .
 ```
 
 ```sh
